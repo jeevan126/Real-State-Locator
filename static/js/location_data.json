@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "message": "Taj Palace",
+                "url": "https://example.com/foo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8777, 19.0760]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "message": "Shukla Palace",
+                "url": "https://example.com/bar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.12, 28.38]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "message": "IIT kgp",
+                "url": "https://example.com/baz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88.36, 22.57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "message": "IIT Madras",
+                "url": "https://example.com/baz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [80.2707, 13.0827]
+            }
+        }
+    ]
+}
